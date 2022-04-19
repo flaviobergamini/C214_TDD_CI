@@ -17,7 +17,7 @@ Imagem retirada do site Plutora: https://www.plutora.com
 
 
 #### Projeto
-- Essa projeto foi desenvolvido em Java usando o Maven como gerenciador de dependências e aplicando os conceitos de TDD, com a intenção de utilizar o GitHub Actions e implementar um Servidor CI para testar automaticamente a aplicação a cada push realizado no repositório.  
+- Esse projeto foi desenvolvido em Java usando o Maven como gerenciador de dependências e aplicando os conceitos de TDD, com a intenção de utilizar o GitHub Actions e implementar um Servidor CI para testar automaticamente a aplicação a cada push realizado no repositório.  
 
 ### :hammer_and_wrench: Instalação e Execução
 #### Preparação do ambiente no computador para executar o projeto
