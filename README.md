@@ -1,3 +1,5 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/flaviobergamini/C214_TDD_CI/InimigoCI)
+
 # C214_TDD_CI
 TDD com CI para C214 - Engenharia de Software.
 
